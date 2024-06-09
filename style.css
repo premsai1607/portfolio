@@ -604,10 +604,10 @@ footer{
     .about-info, .contact-info{
         width: 100%;
     }
-    .project-container{
+    .Education-container{
         justify-content: center;
     }
-    .project-box{
+    . Education-box{
         width: 80%;
     }
 
